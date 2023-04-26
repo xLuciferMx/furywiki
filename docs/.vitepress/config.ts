@@ -4,18 +4,24 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Fury Romania - The Wiki",
   description: "FiveM Roleplay Server",
+  lastUpdated: true,
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
+    // nav: [
+    //   { text: 'Home', link: '/' },
+    //   { text: 'Examples', link: '/markdown-examples' }
+    // ],
 
     logo: './fury-logo.svg',
 
     editLink: {
       pattern: 'https://github.com/plesalex100/furywiki/edit/main/docs/:path',
       text: 'Editează această pagină pe GitHub',
+    },
+
+    search: {
+      provider: 'local'
     },
 
     sidebar: [
@@ -38,6 +44,7 @@ export default defineConfig({
         },
         link: 'https://www.tiktok.com/@furyrp.ro'
       }
-    ]
+    ],
+
   }
 })

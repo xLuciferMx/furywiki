@@ -22,7 +22,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'discord', link: 'https://discord.gg/furyrp' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@FuryRomaniaRoleplay' },
+      { icon: 'instagram', link: 'https://www.instagram.com/furyrp.ro/' },
     ]
   }
 })

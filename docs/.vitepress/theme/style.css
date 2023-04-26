@@ -50,7 +50,7 @@
     #f0bb0c 50%,
     #f38b14 50%
   );
-  --vp-home-hero-image-filter: blur(5px);
+  --vp-home-hero-image-filter: blur(10px);
 }
 
 @media (min-width: 640px) {

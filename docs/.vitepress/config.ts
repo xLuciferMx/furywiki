@@ -5,7 +5,9 @@ export default defineConfig({
   title: "Fury Romania - The Wiki",
   description: "FiveM Roleplay Server",
   lastUpdated: true,
-  
+
+  appearance: 'dark',
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // nav: [

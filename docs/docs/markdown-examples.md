@@ -80,6 +80,10 @@ This is a dangerous warning.
 This is a details block.
 :::
 
+::: details Click pentru informatii
+![Pisica in geam](https://i.imgur.com/wWbBFJf.jpeg)
+:::
+
 ## More
 
 Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).

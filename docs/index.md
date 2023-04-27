@@ -1,4 +1,11 @@
 ---
+title: Home
+---
+
+# test
+
+
+<!-- ---
 layout: home
 
 hero:
@@ -15,4 +22,4 @@ hero:
     - theme: alt
       text: 🤗 Join Discord
       link: https://discord.gg/furyrp
----
+--- -->

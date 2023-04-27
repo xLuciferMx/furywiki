@@ -10,10 +10,10 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    // nav: [
-    //   { text: 'Home', link: '/' },
-    //   { text: 'Examples', link: '/markdown-examples' }
-    // ],
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Wiki', link: '/general' }
+    ],
 
     logo: './fury-logo.svg',
 
@@ -28,12 +28,34 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'General',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: "About us", link: '/general/about' },
+        ]
+      },
+
+      {
+        text: 'Listă Joburi',
+        items: [
+          { text: 'Informatii', link: '/jobs/' },
+          {
+            items: [
+              { text: "Vanator", link: '/jobs/hunter' },
+              { text: "Pescar", link: '/jobs/fisher' },
+              { text: "McDonalts", link: '/jobs/mcds' },
+            ]
+          },
+        ]
+      },
+
+      {
+        text: 'Documentatie',
+        items: [
+          { text: 'Exemple', link: '/docs/markdown-examples' },
+          { text: 'Runtime API Examples', link: '/docs/api-examples' }
         ]
       }
+
     ],
 
     socialLinks: [

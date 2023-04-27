@@ -1,11 +1,4 @@
 ---
-title: Home
----
-
-# test
-
-
-<!-- ---
 layout: home
 
 hero:
@@ -18,8 +11,8 @@ hero:
   actions:
     - theme: brand
       text: Ce este fury ?
-      link: /about
+      link: /general/about
     - theme: alt
       text: 🤗 Join Discord
       link: https://discord.gg/furyrp
---- -->
+---

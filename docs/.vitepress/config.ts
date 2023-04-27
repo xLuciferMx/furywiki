@@ -10,10 +10,10 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Wiki', link: '/general' }
-    ],
+    // nav: [
+    //   { text: 'Home', link: '/' },
+    //   { text: 'Wiki', link: '/general/about' }
+    // ],
 
     logo: './fury-logo.svg',
 
@@ -35,14 +35,17 @@ export default defineConfig({
       },
 
       {
-        text: 'Listă Joburi',
+        text: 'Economie',
         items: [
           { text: 'Informatii', link: '/jobs/' },
           {
+            text: "Lista joburi",
+            collapsed: true,
             items: [
               { text: "Vanator", link: '/jobs/hunter' },
               { text: "Pescar", link: '/jobs/fisher' },
               { text: "McDonalts", link: '/jobs/mcds' },
+              { text: "Miner", link: '/jobs/miner' },
             ]
           },
         ]

@@ -1,6 +1,6 @@
 ---
-title: Mc Donaltds
+title: Mc Donalds
 ---
 
 
-## Test Mc Donaltds
+## Test Mc Donalds

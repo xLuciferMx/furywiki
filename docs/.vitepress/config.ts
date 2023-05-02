@@ -30,24 +30,70 @@ export default defineConfig({
       {
         text: 'General',
         items: [
-          { text: "About us", link: '/general/about' },
+          { text: "Despre noi", link: '/general/about' },
+          { text: "Întrebări frecvente", link: '/general/intrebari' },
+          { text: "Panel", link: '/general/panel' },
+        ]
+      },
+
+      {
+        text: 'Activități legale/ilegale',
+        items: [
+          { text: 'Unde se află fiecare job?', link: '/jobs/' },
+          {
+            text: "Joburi legale",
+            collapsed: true,
+            items: [
+              { text: "Vânător", link: '/jobs/hunter' },
+              { text: "Pescar", link: '/jobs/fisher' },
+              { text: "McDonald's", link: '/jobs/mcds' },
+              { text: "Miner", link: '/jobs/miner' },
+              { text: "Petrolist", link: '/jobs/petrolist' },
+              { text: "Șofer de autobuz", link: '/jobs/busdriver' },
+              { text: "Măcelar", link: '/jobs/butcher' },
+              { text: "Electrician", link: '/jobs/electrician' },
+              { text: "Stivuitorist", link: '/jobs/forklift' },
+              { text: "Gunoier", link: '/jobs/gunoier' },
+              { text: "Pilot", link: '/jobs/pilot' },
+              { text: "Tirist", link: '/jobs/trucker' },
+              { text: "Vatman", link: '/jobs/vatman' },
+              { text: "Tăietor de lemne", link: '/jobs/lumberjack' },
+            ]
+          },
+          { text: 'Activități ilegale', link: '/jobs/ilegale' },
         ]
       },
 
       {
         text: 'Economie',
         items: [
-          { text: 'Informatii', link: '/jobs/' },
-          {
-            text: "Lista joburi",
-            collapsed: true,
+          { text: "Business-uri"
+            , collapsed: true,
             items: [
-              { text: "Vanator", link: '/jobs/hunter' },
-              { text: "Pescar", link: '/jobs/fisher' },
-              { text: "McDonalts", link: '/jobs/mcds' },
-              { text: "Miner", link: '/jobs/miner' },
-            ]
-          },
+              { text: "Service Auto", link: '/economie/mecanici' },
+              { text: "Firmă de taxi", link: '/economie/taxi' },
+              { text: "Servicii Medicale Private", link: '/economie/medici' },
+         ] },
+          { text: "Achievements", link: '/economie/achievements' },
+          { text: "Investiții", link: '/economie/investitii' },
+        ]
+      },
+
+      {
+        text: 'Proprietăți',
+        items: [
+          { text: "Cum licitez o proprietate?", link: '/proprietati/auction' },
+          { text: "Case", link: '/proprietati/case' },
+          { text: "Magazine", link: '/proprietati/magazine' },
+          { text: "Benzinarii", link: '/proprietati/benzinarii' },
+        ]
+      },
+
+      {
+        text: 'Instituții publice',
+        items: [
+          { text: "Poliția", link: '/factions/politie' },
+          { text: "ANAF", link: '/factions/anaf' },
         ]
       },
 

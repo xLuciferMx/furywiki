@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Ce este fury ?
-      link: /general/about
+      link: /informatii/about
     - theme: alt
       text: 🤗 Join Discord
       link: https://discord.gg/furyrp

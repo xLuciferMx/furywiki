@@ -1,3 +1,61 @@
 ---
-title: Politie
+title: Poliția Fury
 ---
+
+
+![pozaPolitie](https://i.imgur.com/Jyy1aSo.png){ width="300" height="600" style="display: block; margin: 0 auto" }
+
+# <center>:policeman:Informații despre Poliția orașului Fury:policeman:</center>
+
+## Cu ce ne ocupăm?
+
+- Poliția orașului Fury se ocupă cu menținerea ordinii și siguranței în oraș, prin aplicarea legilor și pedepsirea celor care le încalcă, dar și cu investigarea și rezolvarea cazurilor de crimă, furt, viol, etc.
+
+## Secțiile de poliție
+
+În oraș se pot găsi 2 secții de poliție:
+
+- Secția de poliție **Davis**, situată la intersecția dintre Davis Avenue și Innocence Blvd, la codul poștal 832.
+:::details Secția Davis 
+![politieDavis1](https://i.imgur.com/1TS0bdB.png)
+![politieDavis2](https://i.imgur.com/hc9Q5lj.png)
+:::
+
+- Secția de poliție **La Mesa**, situată pe La Mesa/Popular Street, la codul poștal 810.
+:::details Secția La Mesa
+![politieLaMesa1](https://i.imgur.com/ZEDQgEn.png)
+![politieLaMesa2](https://i.imgur.com/wOFWJjR.png)
+:::
+
+## Vehicule
+
+În funcție de necesități, polițiștii au în dotare mai multe tipuri de autospeciale:
+
+:::details Autospeciale Standard -> pentru situații normale cum ar fi: patrulare, traffic stop-uri, etc
+![politieAuto](https://i.imgur.com/3EUiNjq.png)
+:::
+
+:::details Autospeciale Highspeed -> pentru urmăriri, intervenții rapide, etc
+![politieHS](https://i.imgur.com/ZKrSntb.png)
+:::
+
+:::details Autospeciale Offroad -> pentru acțiuni în zonele greu accesibile
+![politieOffroad](https://i.imgur.com/VtLNpV7.png)
+:::
+
+:::details Motociclete Highspeed / Offroad -> pentru urmăriri, intervenții rapide, etc
+![politieMoto](https://i.imgur.com/UZ9fpNW.png)
+:::
+
+:::details Elicopter de poliție -> pentru sprijin aerian
+![politieElicopter](https://i.imgur.com/2qFWnaM.png)
+:::
+
+## MDT -> Baza de date a poliției
+
+- MDT-ul este o bază de date a poliției, unde se pot găsi informații toți cetățenii orașului, precum și informații despre vehiculele acestora, cazierul, etc.
+- Această unealtă este folosită pentru a verifica dacă un anumit vehicul este furat, dacă un anumit cetățean are cazier, dacă un anumit cetățean are permis de conducere și pentru a ajuta polițistul să își facă treaba mai eficient și mai ușor.
+
+:::tip Tip!
+Interfața MDT-ului este știută doar de polițiști și nu este disponibilă publicului larg.
+:::

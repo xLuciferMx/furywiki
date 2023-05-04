@@ -12,7 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
     //   { text: 'Home', link: '/' },
-    //   { text: 'Wiki', link: '/general/about' }
+    //   { text: 'Wiki', link: '/informatii/about' }
     // ],
 
     logo: './fury-logo.svg',
@@ -28,18 +28,30 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Informații utile',
+        items: [
+          { text: "Despre noi", link: '/informatii/about' }, //de modificat
+          { text: "Regulament General", link: '/informatii/regulament' }, //done
+          { text: "Întrebări frecvente", link: '/informatii/intrebari' }, 
+          { text: "Comenzi des folosite", link: '/informatii/comenzi' }, 
+          { text: "Panel", link: '/informatii/panel' }, //done
+        ]
+      },
+
+      {
         text: 'General',
         items: [
-          { text: "Despre noi", link: '/general/about' },
-          { text: "Întrebări frecvente", link: '/general/intrebari' },
-          { text: "Panel", link: '/general/panel' },
+          { text: "Inventar", link: '/general/inventar' }, //done
+          { text: "Telefon", link: '/general/telefon' },
+          { text: "Sala de forță", link: '/general/sala' }, //done
+          { text: "Spălătorii auto", link: '/general/spalatorii' },
         ]
       },
 
       {
         text: 'Activități legale/ilegale',
         items: [
-          { text: 'Unde se află fiecare job?', link: '/jobs/' },
+          { text: 'Unde se află fiecare job?', link: '/jobs/locatii' }, //done
           {
             text: "Joburi legale",
             collapsed: true,
@@ -60,7 +72,7 @@ export default defineConfig({
               { text: "Tăietor de lemne", link: '/jobs/lumberjack' },
             ]
           },
-          { text: 'Activități ilegale', link: '/jobs/ilegale' },
+          { text: 'Activități ilegale', link: '/jobs/ilegale' }, //done
         ]
       },
 

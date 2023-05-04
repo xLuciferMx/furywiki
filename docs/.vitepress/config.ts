@@ -17,6 +17,9 @@ export default defineConfig({
 
     logo: './fury-logo.svg',
 
+    outline: "deep",
+    outlineTitle: "Cuprins",
+
     editLink: {
       pattern: 'https://github.com/plesalex100/furywiki/edit/main/docs/:path',
       text: 'Editează această pagină pe GitHub',
@@ -41,7 +44,7 @@ export default defineConfig({
       {
         text: 'General',
         items: [
-          { text: "Inventar", link: '/general/inventar' }, //done
+          { text: "Inventar", link: '/general/inventar' }, //de adaugat
           { text: "Telefon", link: '/general/telefon' },
           { text: "Sala de forță", link: '/general/sala' }, //done
           { text: "Spălătorii auto", link: '/general/spalatorii' },

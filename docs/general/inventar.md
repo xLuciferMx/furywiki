@@ -70,7 +70,7 @@ title: Inventar
 
 ## Cum accesez cele 6 quick slot-uri?
 
-- Pentru a accesa itemele poziționate pe unul din cele 6 quick solt-uri, trebuie pur și simplu să apăsați pe tastele <span style="padding: 3px 7px; border-radius: 10px; background-color: red;">1 -> 6</span>, și ca să vedeți ce iteme aveți pe fiecare slot apăsați tasta <span style="padding: 3px 7px; border-radius: 10px; background-color: red;">TAB</span>.
+- Pentru a accesa itemele poziționate pe unul din cele 6 quick solt-uri, trebuie pur și simplu să apăsați pe tastele <span style="padding: 3px 7px; border-radius: 10px; background-color: red;">1 -> 6</span>, și ca să vedeți ce iteme aveți pe fiecare slot apăsați tasta <KeyIcon keyType="tab"/>.
 :::details Exemplu utilizare quick slot
 ![gifInventarSlots](https://i.imgur.com/Tpb5fzy.gif)
 :::

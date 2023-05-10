@@ -14,5 +14,5 @@ hero:
       link: /informatii/about
     - theme: alt
       text: 🤗 Join Discord
-      link: https://discord.gg/furyrp
+      link: https://discord.gg/furyro
 ---

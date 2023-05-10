@@ -103,10 +103,67 @@ title: Comenzi Utile
 
 ### /cleanskin
 
-## Hotkeys
+- Îți curăță caracterul de sânge.
 
-### todo
+### /barbut
 
-### cum sa modifici tasta in setari
+- Cu ajutorul unor zaruri cumpărate de la [magazin](/proprietati/magazine), poți juca barbut pe o sumă de bani cu alt jucător.
 
-### keybinds custom in f8
+### to add more
+
+## Butoane cu funcții prestabilite
+
+### Tasta K
+- Deschide meniul principal.
+
+### Tasta HOME
+- Arată ID-ul celor din jur și totodată ID-ul tău va fi vizibil la apăsarea acestei taste.
+:::danger ATENȚIE!
+Citește [regulamentul](regulament) pentru a afla în ce condiții ai voie să folosești această comandă.
+:::
+
+### Tasta B
+- Arată cu degetul.
+
+### Tasta X
+- Ridică mâinile în sus. (handsup)
+
+### Tasta M
+- Afișează HUD-ul cu banii din bancă, numărul de fury coins de pe cont și hunger/water bar-ul.
+:::warning Atenție!
+La apăsarea acestei taste caracterul tău va face o animație specifică!
+:::
+
+### Tasta U
+- Închide/Deschide mașina personală.
+
+### Tasta Z (în mașină)
+- Deschide meniul de start/stop al motorului, de a deschide portbagajul, capota, ușile și geamurile.
+
+### Tasta G (în mașină)
+- Activează cruise control-ul.
+
+### Tasta I
+- Deschide inventarul.
+
+### Tasta L
+- Deschide telefonul.
+
+### Tasta CAPS LOCK
+- Activează microfonul pe stațiile radio.
+
+### Tasta F11
+- Alege proximitatea voice chat-ului. (partea dreapta jos a ecranului)
+
+## Cum pot modifica un hotkey?
+
+- Aveți posibilitatea de a schimba orice tastă din joc cu orice altă tastă dorită accesând setările jocului.
+
+**ESC - Settings - Keybinds(apăsați enter pentru a edita o tastă) - FiveM**
+
+## Cum îmi pot seta un bind pentru o anumită comandă?
+
+- Aveți posibilitatea de a seta un bind pentru orice comandă din joc prin intermediul unei comenzi scrise in consolă (F8).
+
+**Exemplu: bind keyboard O "me își revine ușor"**
+

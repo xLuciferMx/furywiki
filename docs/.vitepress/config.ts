@@ -33,7 +33,7 @@ export default defineConfig({
       {
         text: 'Informații utile',
         items: [
-          { text: "Despre noi", link: '/informatii/about' }, //de modificat
+          { text: "Despre noi", link: '/informatii/about' }, //done
           { text: "Regulament General", link: '/informatii/regulament' }, //done
           { text: "Întrebări frecvente", link: '/informatii/intrebari' }, 
           { text: "Comenzi des folosite", link: '/informatii/comenzi' }, 
@@ -47,7 +47,8 @@ export default defineConfig({
           { text: "Inventar", link: '/general/inventar' }, //de adaugat
           { text: "Telefon", link: '/general/telefon' },
           { text: "Sala de forță", link: '/general/sala' }, //done
-          { text: "Spălătorii auto", link: '/general/spalatorii' },
+          { text: "Spălătorii auto", link: '/general/spalatorii' }, 
+          { text: "Școala de șoferi", link: '/general/scoala' }, //done
         ]
       },
 
@@ -107,7 +108,7 @@ export default defineConfig({
       {
         text: 'Instituții publice',
         items: [
-          { text: "Poliția", link: '/factions/politie' },
+          { text: "Poliția", link: '/factions/politie' }, //done
           { text: "ANAF", link: '/factions/anaf' },
         ]
       },
@@ -123,7 +124,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/furyrp' },
+      { icon: 'discord', link: 'https://discord.gg/furyro' },
       { icon: 'youtube', link: 'https://www.youtube.com/@FuryRomaniaRoleplay' },
       { icon: 'instagram', link: 'https://www.instagram.com/furyrp.ro/' },
       {

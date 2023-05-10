@@ -17,11 +17,16 @@ Obiectivul comunității noastre este a oferi un gameplay cât mai fun și un ni
 
 - Echipa noastră administrativă este alcătuită din oameni bine pregătiți pentru orice întrebare sau problemă puteți să aveți. 
 
+
 ### Cu ce se ocupă fiecare membru al echipei administrative?
+
+<br/>
 
 #### Fondator & Co-Fondator
 - Fondatorul și Co-Fondatorul sunt cei care au pus bazele comunității și se ocupă de dezvoltarea acesteia.
 - Aceștia pot fi contactați pentru probleme grave la nivel de comunitate, propuneri de colaborări sau pentru probleme la donații.
+
+<hr style="transform: translateY(10px)"/>
 
 #### Scripter
 Scripterul este cel care se ocupă de dezvoltarea scripturilor serverului.
@@ -31,9 +36,34 @@ Acesta poate fi contactat pentru:
 - propuneri de sisteme noi
 - pierderi de iteme sau bani din cauza unor bug-uri
 
-#### Admin 5
+<hr style="transform: translateY(10px)"/>
+
+#### Admin 5 & Admin 4
 Acesta poate fi contactat pentru:
+- probleme minore la nivel de comunitate
 - reclamații la adresa membrilor echipei administrative
-- 
-Puteți să puneți o întrebare sau să faceți o reclamație unui jucător accesând meniul din joc *meniu joc poze/gif* 
+- pierderi de arme din cauza unor bug-uri
+- reclamații la adresa altor jucători
+
+<hr style="transform: translateY(10px)"/>
+
+#### Admin 3
+Acesta poate fi contactat pentru:
+- întrebări legate de regulament
+- asistare la tickete mai complexe
+- întrebări legate de sisteme / locații / joburi de pe server
+- reclamații la adresa altor jucători
+
+<hr style="transform: translateY(10px)"/>
+
+#### Admin 2 & Admin 1
+Acesta poate fi contactat pentru:
+- întrebări legate de sisteme / locații / joburi de pe server
+- reclamații la adresa altor jucători
+
+<hr style="transform: translateY(10px)"/>
+
+Puteți să puneți faceți reclamație unui jucător, să raportați un bug sau să puneți o întrebare accesând comanda /ticket.
+
+![menuTicket](https://i.imgur.com/xbsLv2a.png)
 

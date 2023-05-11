@@ -63,7 +63,7 @@ Acesta poate fi contactat pentru:
 
 <hr style="transform: translateY(10px)"/>
 
-Puteți să puneți faceți reclamație unui jucător, să raportați un bug sau să puneți o întrebare accesând comanda /ticket.
+Puteți face reclamație unui jucător, să raportați un bug sau să puneți o întrebare accesând comanda /ticket.
 
 ![menuTicket](https://i.imgur.com/xbsLv2a.png)
 

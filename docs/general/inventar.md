@@ -101,6 +101,21 @@ Cu forma fizică *0%*, numărul de kg de iteme pe care le poți căra este de **
 
 ![pozaInventarUneqGeanta](https://i.imgur.com/ez0rSxb.png)
 
-## Portbagaj cu I in spate - todo
+## Folosirea shortcut-urilor
 
-## click shift
+Există 2 shortcut-uri care pot fi folosite:
+
+### Ctrl + Click
+- Înlocuirea funcției de "Folosește" a itemelor din inventar.
+:::details Folosirea shortcut-ului Ctrl + Click
+![gifInventarCtrlClick](https://i.imgur.com/SdtR0Ft.gif)
+:::
+
+### Shift + Click
+- Mută itemele din inventar în portbagaj/geantă/cufăr sau invers mai rapid.
+
+## Accesarea portbagajului
+
+- Accesarea portbagajului se face prin poziționarea caracterului în fața portbagajului și apăsarea tastei <KeyIcon keyType="i"/> pentru a-l putea utiliza.
+- Este recomandată folosirea shortcut-ului [shift + click](#shift-click)
+![gifPortbagaj](https://i.imgur.com/gjhDkxg.gif)

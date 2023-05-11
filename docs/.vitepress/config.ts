@@ -49,6 +49,8 @@ export default defineConfig({
           { text: "Sala de forță", link: '/general/sala' }, //done
           { text: "Spălătorii auto", link: '/general/spalatorii' }, 
           { text: "Școala de șoferi", link: '/general/scoala' }, //done
+          { text: "Magazin de arme", link: '/general/gunshop' },
+          { text: "Biroul de Licențe", link: '/general/licente' }
         ]
       },
 
@@ -60,19 +62,19 @@ export default defineConfig({
             text: "Joburi legale",
             collapsed: true,
             items: [
-              { text: "Vânător", link: '/jobs/hunter' },
+              { text: "Șofer de autobuz", link: '/jobs/busdriver' },
               { text: "Pescar", link: '/jobs/fisher' },
               { text: "McDonald's", link: '/jobs/mcds' },
-              { text: "Miner", link: '/jobs/miner' },
-              { text: "Petrolist", link: '/jobs/petrolist' },
-              { text: "Șofer de autobuz", link: '/jobs/busdriver' },
-              { text: "Măcelar", link: '/jobs/butcher' },
-              { text: "Electrician", link: '/jobs/electrician' },
-              { text: "Stivuitorist", link: '/jobs/forklift' },
-              { text: "Gunoier", link: '/jobs/gunoier' },
-              { text: "Pilot", link: '/jobs/pilot' },
               { text: "Tirist", link: '/jobs/trucker' },
+              { text: "Petrolist", link: '/jobs/petrolist' },
+              { text: "Miner", link: '/jobs/miner' },
+              { text: "Electrician", link: '/jobs/electrician' },
               { text: "Vatman", link: '/jobs/vatman' },
+              { text: "Gunoier", link: '/jobs/gunoier' },
+              { text: "Vânător", link: '/jobs/hunter' },
+              { text: "Măcelar", link: '/jobs/butcher' },
+              { text: "Stivuitorist", link: '/jobs/forklift' },
+              { text: "Pilot", link: '/jobs/pilot' },
               { text: "Tăietor de lemne", link: '/jobs/lumberjack' },
             ]
           },

@@ -8,7 +8,7 @@
  * -------------------------------------------------------------------------- */
 
  :root {
-  --vp-c-brand: #f03426;
+  --vp-c-brand: #d65f02;
   --vp-c-brand-light: #df3314;
   --vp-c-brand-lighter: #eb5035;
   --vp-c-brand-lightest: #ec7763;
@@ -36,6 +36,18 @@
 /**
  * Component: Home
  * -------------------------------------------------------------------------- */
+
+::-webkit-scrollbar-thumb {
+    background-color: #404041;
+    border-radius: 10px;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: #191b22;
+}
+::-webkit-scrollbar-track {
+    background-color: #191b22;
+}
 
 :root {
   --vp-home-hero-name-color: transparent;

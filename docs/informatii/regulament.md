@@ -6,7 +6,7 @@ title: Regulament General
 
 # <center>Regulament General</center>
 
-## <p style="text-align: center;">Noțiuni de bază</p>
+## <center>Noțiuni de bază</center>
 
 
 ### 1.01 Roleplay (RP) 

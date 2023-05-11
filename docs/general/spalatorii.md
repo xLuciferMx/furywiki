@@ -3,7 +3,7 @@ title: Spălătorii
 ---
 
 
-# <p style="text-align: center;">Cum folosim spălătoriile?</p>
+# <center>Cum folosim spălătoriile?</center>
 
 ## Unde găsesc spălătoriile?
 
@@ -15,7 +15,7 @@ TODO - ask ples de blips
 
 - Pentru a folosi furtunul de la spălătorie, trebuie să te apropii de el și să apeși tasta <KeyIcon keyType="e"/> pentru a-l lua în mână.
 
-- După ce ai luat furtunul în mână, trebuie să te apropii de mașină și să apeși <span style="padding: 3px 7px; border-radius: 10px; background-color: red;">CLICK</span> pentru a începe să o speli.
+- După ce ai luat furtunul în mână, trebuie să te apropii de mașină și să apeși <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">CLICK</span> pentru a începe să o speli.
 
 - Veți știi că mașina este spălată atunci când va apărea un mesaj la baza ecranului "Vehiculul este curat".
 

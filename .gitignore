@@ -3,6 +3,7 @@
 **/.vitepress/dist
 **/.vitepress/cache
 
+/server
 
 # Logs
 logs

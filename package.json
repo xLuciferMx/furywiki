@@ -6,6 +6,6 @@
   "scripts": {
     "dev": "vitepress dev docs --port 5000 --host 0.0.0.0",
     "build": "vitepress build docs",
-    "preview": "vitepress preview docs"
+    "preview": "vitepress preview docs --host true --port 443"
   }
 }

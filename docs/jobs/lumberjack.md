@@ -8,7 +8,7 @@ title: Tăietor de lemne
 ## Cerințe
 
 - Experiență de minim TODO ore
-- Deținerea unui autoturism de tip Bison
+- Deținerea unui autoturism de tip Bison (poate fi achiziționat de la Dealership).
 - Deținerea unui topor (poate fi achiziționat de la [gunshop](/general/gunshop))
 - Deținerea unui permis de conducere valabil
 :::info Recomandare!

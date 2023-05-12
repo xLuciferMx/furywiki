@@ -29,7 +29,7 @@ Informații pentru jobul de -> [pescar](/jobs/fisher) <-
 
 ## Q: Cum pot aplica în staff?
 
-A: Periodic, pe [discord](discord.gg/furyro) se vor anunța perioadele în care se pot completa aplicații pentru a intra în staff. În cazul în care nu există o perioadă de aplicare, înseamnă că staff-ul nu are nevoie de noi membri.
+A: Periodic, pe [discord](https://discord.gg/furyro) se vor anunța perioadele în care se pot completa aplicații pentru a intra în staff. În cazul în care nu există o perioadă de aplicare, înseamnă că staff-ul nu are nevoie de noi membri.
 
 ## Q: Cum pot aplica în facțiuni?
 

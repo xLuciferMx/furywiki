@@ -1,6 +1,9 @@
 ---
 title: Miner
 ---
+<script setup> 
+    import KeyIcon from '../.vitepress/components/KeyIcon.vue'
+</script>
 
 # <center>Informații despre jobul de miner</center>
 

@@ -1,7 +1,9 @@
 ---
 title: Spălătorii
 ---
-
+<script setup> 
+    import KeyIcon from '../.vitepress/components/KeyIcon.vue'
+</script>
 
 # <center>Cum folosim spălătoriile?</center>
 

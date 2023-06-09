@@ -3,21 +3,25 @@ title: Șofer de autobuz
 ---
 
 
-# <center>Informații despre job-ul de șofer de autobuz</center>
+# <center>Informații despre jobul de șofer de autobuz</center>
 
 <hr style="transform: translateY(10px)"/>
 
 ### Cerințe
 
-- Nu e nevoie să ai experiență pentru a practica acest job.
-
-- Este necesar să ai [permis de conducere](/general/scoala) valabil.
+- Experiență de minim 10 ore.
+- Deținerea unui [permis de conducere](/general/scoala) valabil.
 
 <hr style="transform: translateY(10px)"/>
 
 ### Cum practic acest job?
 
+Acest job constă în urmărirea rutei și preluarea călătorilor din stație.
+
 - Începi prin a vorbi cu directorul de la autogară pentru a primi uniforma, apoi poți începe tura.
+:::details NPC
+![](https://i.imgur.com/gGtErdP.png)
+:::
 
 - Odată ce începi tura, vei fi pus într-un autobuz cu care trebuie să mergi parcurgi toate stațiile, care sunt reprezentate de checkpoint-ul mov.
 

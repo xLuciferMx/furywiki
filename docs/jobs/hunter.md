@@ -9,7 +9,7 @@ title: Vanator
 
 ## Cerințe
 
-- Experiență de minim TODO ore.
+- Experiență de minim 150 ore.
 - Deținerea unui tip de armă specială -> Musket (poate fi achiziționată de la NPC-ul jobului).
 - Deținerea unei [licențe](/general/licente) de vânător pentru a putea lucra legal.
 :::tip
@@ -23,6 +23,10 @@ Acest job constă în vânarea animalelor și colectarea blănurilor, cărnii ș
 - Începi prin a merge la [locația jobului](locatii) și interacționați cu NPC-ul din interiorul clădirii pentru a-ți achiziționa Musketa și gloanțe cât considerați că aveți nevoie, și apoi începeți vânătoarea.
 :::details NPC
 ![](https://i.imgur.com/6qch7tj.png)
+:::
+
+:::danger ATENȚIE!
+- Utilizarea armei de tip "Musket" în alte scopuri în afara jobului de vânător este interzisă și se pedepsește ca atare. Vezi [regulamentul](/informatii/regulament) pentru mai multe detalii.
 :::
 
 - Odată ce ați început slectat opțiunea de a începe vânătoarea, mergeți la locația marcată cu o zonă verde pe hartă și începeți să vânați animalele care sunt marcate cu un checkpoint roșu.

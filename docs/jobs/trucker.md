@@ -10,8 +10,8 @@ title: Tirist
 
 ## Cerințe
 
-- Experiență de minim TODO ore.
-- Deținerea unui permis de conducere valabil.
+- Experiență de minim 50 ore.
+- Deținerea unui [permis de conducere](/general/scoala) valabil.
 - Deținerea unui TIR personal (poate fi achiziționat de la Dealership).
 - Deținerea unei [licențe](/general/licente) de tirist pentru a putea lucra legal.
 :::tip
@@ -22,7 +22,7 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 
 Acest job constă în transportarea remorcilor cu marfă de la un punct la altul.
 
-- Începi prin a merge la un garaj industrial (marcat cu un blips la fel ca și cel de la garjul normal, dar galben) și scoateți tirul.
+- Începi prin a merge la un garaj industrial (marcat cu un blips la fel ca și cel de la garajul normal, dar galben) și scoateți tirul.
 :::details Garaj industrial
 ![](https://i.imgur.com/ZC1aSuC.png)
 :::

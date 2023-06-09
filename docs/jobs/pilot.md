@@ -8,7 +8,7 @@ title: Pilot
 # <center>Informații despre jobul de pilot</center>
 
 ## Cerințe
-- Experiență de minim TODO ore.
+- Experiență de minim 200 ore.
 - Deținerea unor cunoștințe medii despre pilotaj.
 
 ## Cum practic acest job?

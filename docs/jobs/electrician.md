@@ -6,8 +6,8 @@ title: Electrician
 
 ## Cerințe
 
-- Experiență de minim TODO ore.
-- Deținerea unui permis de conducere valabil.
+- Nu este necesară experiență.
+- Deținerea unui [permis de conducere](/general/scoala) valabil.
 
 ## Cum practic acest job?
 

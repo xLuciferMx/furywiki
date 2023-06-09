@@ -8,7 +8,7 @@ title: Vatman
 # <center>Informații despre jobul de vatman</center>
 
 ## Cerințe
-- Experiență de minim TODO ore.
+- Experiență de minim 25 ore.
 
 ## Cum practic acest job?
 
@@ -28,6 +28,8 @@ Acest job constă în conducerea trenului și transportarea pasagerilor de la o 
 N -> reprezintă viteza neutră, folosită pentru a scoate din viteză trenul, îl pune în modul brake până se oprește.
 
 R -> reprezintă viteza de mers înapoi, folosită pentru a merge înapoi cu trenul.
+
+Brake -> reprezintă frânarea trenului; dacă este butonul de brake este roșu, trenul este în curs de frânare, dacă este portocaliu, trenul nu frânează.
 
 :::tip
 - Poate fi folosită tasta <KeyIcon keyType="space"/> pentru a frâna trenul.

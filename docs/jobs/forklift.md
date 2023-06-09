@@ -7,8 +7,8 @@ title: Stivuitorist
 
 ## Cerințe
 
-- Experiență de minim TODO ore.
-- Deținerea unui permis de conducere valabil.
+- Experiență de minim 75 ore.
+- Deținerea unui [permis de conducere](/general/scoala) valabil.
 - Deținerea unei [licențe](/general/licente) de stivutiorist pentru a putea lucra legal.
 :::tip 
 Puteți lucra și fără licență, dar la o razie din partea poliției veți fi sancționați.

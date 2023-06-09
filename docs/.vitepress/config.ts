@@ -1,7 +1,9 @@
 import { defineConfig } from 'vitepress'
+// vite.config.js
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+
   title: "Fury Romania - The Wiki",
   description: "FiveM Roleplay Server",
   lastUpdated: true,
@@ -33,52 +35,55 @@ export default defineConfig({
       {
         text: 'Informații utile',
         items: [
-          { text: "Despre noi", link: '/informatii/about' }, //done
-          { text: "Regulament General", link: '/informatii/regulament' }, //done
+          { text: "Despre noi", link: '/informatii/about' },
+          { text: "Regulament General", link: '/informatii/regulament' },
           { text: "Întrebări frecvente", link: '/informatii/intrebari' }, 
           { text: "Comenzi des folosite", link: '/informatii/comenzi' }, 
-          { text: "Panel", link: '/informatii/panel' }, //done
+          { text: "Panel", link: '/informatii/panel' },
         ]
       },
 
       {
         text: 'General',
         items: [
-          { text: "Inventar", link: '/general/inventar' }, //de adaugat
+          { text: "Inventar", link: '/general/inventar' },
           { text: "Telefon", link: '/general/telefon' },
-          { text: "Sala de forță", link: '/general/sala' }, //done
+          { text: "Garaje & Parcări", link: '/general/garaje'},
+          { text: "Bancomate", link: '/general/atm'},
+          { text: "Asigurare medicală", link: '/general/asigurare' },
+          { text: "Școala de șoferi", link: '/general/scoala' },
+          { text: "Biroul de Licențe", link: '/general/licente' },
+          { text: "Sala de forță", link: '/general/sala' },
           { text: "Spălătorii auto", link: '/general/spalatorii' }, 
-          { text: "Școala de șoferi", link: '/general/scoala' }, //done
           { text: "Magazin de arme", link: '/general/gunshop' },
-          { text: "Biroul de Licențe", link: '/general/licente' }
         ]
       },
 
       {
         text: 'Activități legale/ilegale',
         items: [
-          { text: 'Unde se află fiecare job?', link: '/jobs/locatii' }, //done
+          { text: 'Unde se află fiecare job?', link: '/jobs/locatii' },
           {
             text: "Joburi legale",
             collapsed: true,
-            items: [
-              { text: "Șofer de autobuz", link: '/jobs/busdriver' },
+            items: [ // in ordinea numarului de ore necesare - low to high
               { text: "Pescar", link: '/jobs/fisher' },
+              { text: "Electrician", link: '/jobs/electrician' },
+              { text: "Șofer de autobuz", link: '/jobs/busdriver' },
+              { text: "Miner", link: '/jobs/miner' },
+              { text: "Gunoier", link: '/jobs/gunoier' }, 
+              { text: "Vatman", link: '/jobs/vatman' },
+              { text: "Măcelar", link: '/jobs/butcher' }, 
               { text: "McDonald's", link: '/jobs/mcds' },
               { text: "Tirist", link: '/jobs/trucker' },
-              { text: "Petrolist", link: '/jobs/petrolist' },
-              { text: "Miner", link: '/jobs/miner' },
-              { text: "Electrician", link: '/jobs/electrician' },
-              { text: "Vatman", link: '/jobs/vatman' },
-              { text: "Gunoier", link: '/jobs/gunoier' },
-              { text: "Vânător", link: '/jobs/hunter' },
-              { text: "Măcelar", link: '/jobs/butcher' },
               { text: "Stivuitorist", link: '/jobs/forklift' },
-              { text: "Pilot", link: '/jobs/pilot' },
+              { text: "Petrolist", link: '/jobs/petrolist' },
               { text: "Tăietor de lemne", link: '/jobs/lumberjack' },
+              { text: "Vânător", link: '/jobs/hunter' },
+              { text: "Pilot", link: '/jobs/pilot' },
             ]
           },
-          { text: 'Activități ilegale', link: '/jobs/ilegale' }, //done
+          { text: 'Activități ilegale', link: '/jobs/ilegale' },
         ]
       },
 
@@ -110,18 +115,19 @@ export default defineConfig({
       {
         text: 'Instituții publice',
         items: [
-          { text: "Poliția", link: '/factions/politie' }, //done
+          { text: "Primăria", link: '/factions/primarie' },
+          { text: "Poliția", link: '/factions/politie' },
           { text: "ANAF", link: '/factions/anaf' },
         ]
-      },
-
-      {
-        text: 'Documentatie',
-        items: [
-          { text: 'Exemple', link: '/docs/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/docs/api-examples' }
-        ]
       }
+
+      // {
+      //   text: 'Documentatie',
+      //   items: [
+      //     { text: 'Exemple', link: '/docs/markdown-examples' },
+      //     { text: 'Runtime API Examples', link: '/docs/api-examples' }
+      //   ]
+      // }
 
     ],
 

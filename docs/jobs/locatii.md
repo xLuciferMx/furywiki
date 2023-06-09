@@ -19,4 +19,4 @@ title: Locații
 
 - O altă metodă este folosirea aplicației E-Jobs, selectarea jobului și apăsarea pe butonul de locație.
 
-# todo gif cand e gata aplicatia
+![](https://i.imgur.com/J45IOJv.png)

@@ -4,6 +4,7 @@
 **/.vitepress/cache
 
 /server
+/certs
 
 # Logs
 logs

@@ -9,9 +9,9 @@ title: Miner
 
 ## Cerințe
 
-- Experiență de minim TODO ore.
+- Experiență de minim 10 ore.
 - Deținerea unei autoutilitare de tip Rubble (poate fi achiziționată de la Dealership).
-- Deținerea unui permis de conducere valabil.
+- Deținerea unui [permis de conducere](/general/scoala) valabil.
 - Deținerea unei [licențe](/general/licente) de miner pentru a putea lucra legal.
 :::tip 
 Puteți lucra și fără licență, dar la o razie din partea poliției veți fi sancționați.
@@ -30,7 +30,7 @@ Acest job constă în adunarea de minereuri, prelucrarea lor la topitorie și v�
 
 - Odată ce ați început tura, intrați în mină și apropiați-vă de pietrele care sunt marcate cu o săgeată galbenă.
 :::details Pietre
-![](https://i.imgur.com/h2RReIG.gif)
+![](https://i.imgur.com/61izlAt.gif)
 :::
 
 - Când ați ajuns aproape de o piatră, apăsați tasta <KeyIcon keyType="e"/> pentru a începe să o spargeți.

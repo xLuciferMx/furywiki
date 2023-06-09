@@ -7,15 +7,17 @@ title: Tăietor de lemne
 
 ## Cerințe
 
-- Experiență de minim TODO ore
+- Experiență de minim 125 ore
 - Deținerea unui autoturism de tip Bison (poate fi achiziționat de la Dealership).
-- Deținerea unui topor (poate fi achiziționat de la [gunshop](/general/gunshop))
-- Deținerea unui permis de conducere valabil
+- Deținerea unui topor (poate fi achiziționat de la [gunshop](/general/gunshop), unul dintre ele se afla la cod poștal 46, pe Great Ocean Highway).
+- Deținerea unui [permis de conducere](/general/scoala) valabil
 :::info Recomandare!
 Este recomandată folosirea unei genți, care poate fi achiziționată de la [magazin](/proprietati/magazine).
 :::
 
 ## Cum practic acest job?
+
+Acest job constă în tăierea copacilor din pădure, transportarea lemnelor cu ajutorul unui autoturism de tip Bison la Lumber Yard, unde acestea vor fi transformate în scânduri și vândute.
 
 - Trebuie să mergeți la Lumber Yard ([află aici unde este](locatii)) cu mașina Bison și să vorbiți cu NPC-ul de la intrare.
 :::details NPC Intrare

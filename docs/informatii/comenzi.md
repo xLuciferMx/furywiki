@@ -109,6 +109,14 @@ title: Comenzi Utile
 
 - Cu ajutorul unor zaruri cumpărate de la [magazin](/proprietati/magazine), poți juca barbut pe o sumă de bani cu alt jucător.
 
+### /houses
+
+- Afișează pe hartă blips-uri cu toate casele de pe server
+
+### /findhouse [nr casa]
+
+- Setează locația către casa cu numărul selectat
+
 ### to add more
 
 ## Butoane cu funcții prestabilite
@@ -133,6 +141,9 @@ Citește [regulamentul](regulament) pentru a afla în ce condiții ai voie să f
 :::warning Atenție!
 La apăsarea acestei taste caracterul tău va face o animație specifică!
 :::
+
+### Tasta F3
+- Deschide un meniu cu toate animațiile/stilurile de mers disponibile.
 
 ### Tasta U
 - Închide/Deschide mașina personală.

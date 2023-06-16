@@ -14,7 +14,7 @@ title: Spălătorii
 
 ## Cum spăl mașina?
 
-- Pentru a spăla mașina, trebuie să te duci la o spălătorie **TODO** și să apropii mașina de acesta aparatul Self-Wash.
+- Pentru a spăla mașina, trebuie să te duci la una din spălătorii și să apropii mașina de aparatul Self-Wash. Dacă parcați mașina prea departe, furtunul nu va ajunge la ea și se va rupe.
 
 - Pentru a folosi furtunul de la spălătorie, trebuie să te apropii de el și să apeși tasta <KeyIcon keyType="e"/> pentru a-l lua în mână.
 

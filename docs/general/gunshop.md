@@ -7,7 +7,7 @@ title: "Gunshops"
 
 ## Unde găsesc un magazin de arme? 
 
-- TODO
+- Magazinele sunt răspândite pe toată harta și va trebui să le descoperiți singuri.
 
 ## Ce pot cumpăra de la un magazin de arme?
 

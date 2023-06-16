@@ -2,39 +2,39 @@
 title: Electrician
 ---
 
+<script setup> 
+    import KeyIcon from '../.vitepress/components/KeyIcon.vue'
+</script>
+
 # <center>Informații despre jobul de electrician</center>
 
 ## Cerințe
 
 - Nu este necesară experiență.
-- Deținerea unui [permis de conducere](/general/scoala) valabil.
 
 ## Cum practic acest job?
 
-Acest job constă în repararea stâlpilor stradali din oraș.
+Acest job are un impact foarte mare asupra orașului și constă în repararea panourilor electrice care generează electricitate pentru oraș. Dacă nimeni nu practică acest job și panourile nu sunt reparate, orașul va rămâne fără electricitate.
 
-- Începi prin a merge la [locația jobului](locatii) și a interacționa cu NPC-ul din parcare pentru a începe tura.
-:::details NPC
-![](https://i.imgur.com/Plcuhzf.png)
+- Începi prin a merge la [locația jobului](locatii), intrați pe ușă și a interacționați cu NPC-ul din curte pentru a începe tura.
+:::details Locație
+![](https://i.imgur.com/NTdD3s3.png)
+
+
+![](https://i.imgur.com/lzhQctb.png)
 :::
 
-- Odată ce ați început tura, mergeți cu mașina de lucru la stâlpii de lumină marcați cu un blips în formă de fulger pentru a-l repara.
-:::details Blips Stâlpi
-![](https://i.imgur.com/Zx6zquN.png)
+- Odată ce ați început tura, mergeți la fiecare checkpoint albastru care vă apare pe hartă pentru a repara panoul.
+
+- Când ați ajuns la panou, apăsați tasta <KeyIcon keyType="e"/> pentru a începe reparația.
+
+- Pentru a repara panoul trebuie să apăsați click pe circuitele defecte de pe placă (cel roșu).
+:::details Minigame Electrician
+![](https://i.imgur.com/oEJ6Jqp.gif)
 :::
 
-- Când ați ajuns aproape de un stâlp, ieșiți din mașină, scoateți din spate o scară și montați-o pe stâlp pentru a vă putea urca în vârf.
-:::details Montare scară
-![](https://i.imgur.com/vCS1hvw.gif)
-:::
+- După ce panoul a fost reparat, orașul va primi 1 Megawatt de energie. Orașul are o capacitate de stocare de 10.000 Megawatti și consumă 50 megawatti în 10 minute. Deci, dacă nimeni nu mai face acest job, orașul va rezista 33 de ore până câd va rămâne fără energie și va face pană de curent.
 
-- Pentru a repara stâlpul trebuie să faceți 2 minigame-uri ce constă în legarea fiecărui fir din stânga cu firul de aceeași culoare din dreapta. Aveți un exemplu mai jos pentru acest minigame.
-:::details Minigame
-![](https://i.imgur.com/8xSddWa.gif)
-:::
+- Plata va fi făcută după fiecare panou reparat.
 
-- După ce stâlpul a fost reparat, coborâți de pe scară, demontați-o și puneți-o înapoi în spatele mașinii. Puteți repeta acest proces pentru toți stâlpii de lumină marcați pe hartă sau până vreți să încheiați tura.
-
-- Plata va fi făcută după fiecare stâlp reparat.
-
-- Pentru a încheia tura, vorbiți cu NPC-ul de la intrare.
+- Pentru a încheia tura, vorbiți cu NPC-ul sau folosiți comanda /quitjob.

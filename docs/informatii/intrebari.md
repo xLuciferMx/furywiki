@@ -53,5 +53,3 @@ Informații pentru jobul de -> [pescar](/jobs/fisher) <-
 ## Q: Cum îmi creez mafie? 
 
 ### A: Crearea unei organizații / mafie se va realiza strict IC.
-
-# TO DO MAI MULTE

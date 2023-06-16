@@ -87,7 +87,7 @@ Există 4 tipuri de case:
 - Pentru a deschide meniul de administrare al casei, trebuie să vă aflați în interiorul acesteia și să apăsați tasta <KeyIcon keyType="k"/> -> Meniu Casa.
 
 ![](https://i.imgur.com/IIg1K1P.png)
-![](https://i.imgur.com/BwNBEoz.png)
+![](https://i.imgur.com/WYDmIL4.png)
 
 Meniul de administrare al casei are următoarele opțiuni:
 
@@ -102,6 +102,9 @@ Meniul de administrare al casei are următoarele opțiuni:
 
 ### Invitați
 -> Aici puteți vedea persoanele care se află ca invitați în casă.
+
+### Licitează casa
+-> Oferă posibilitatea de a licita casa. Vezi mai multe informații de spre licitații [aici](auction).
 
 ### Mobilier
 -> Deschideți [sistemul de mobilare](#cum-pot-sa-mi-mobilez-casa) al casei

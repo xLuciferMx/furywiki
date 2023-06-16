@@ -7,27 +7,30 @@ title: Licitatii
 
 ## Cum pot sa creez o licitație?
 
-- Licitațiile pot fi create cu ajutorul comenzii:
+În funcție de ce doriți să licitați (casă/benzinărie/magazin), licitațiile pot fi create astfel:
 
-### /newauction [tip] [id] [preț început]
+### Casă
 
-unde:
-- tip - tipul licitației (house / benzinarie / magazin)
-- id - id-ul casei / benzinăriei / magazinului (id-ul casei / benzinariei / magazinului)
-- preț început - prețul de început al licitației (prețul minim cu care ați vrea să vindeți casa / benzinăria / magazinul)
+- Trebuie să vă aflați în interiorul casei. Accesați meniul casei și selectați opțiunea "Licitează casa", apoi alegeți prețul de pornire al licitației.
+- După ce ați creat licitația, toți jucătorii vor primi o notificare pe telefon pentru [aplicația "Licitații"](/telefon.html#aplicatia-licitatii).
+
+![](https://i.imgur.com/VCBmZue.gif)
+
+### Benzinărie
+
+- todo
+
+### Magazin
+
+- todo
 
 ## Cum pot sa particip la o licitație?
 
-- Licitațiile pot fi urmărite cu ajutorul comenzii:
-
-### /watchauction [id]
-
-unde:
-- id - id-ul licitației (va fi anunțat inclusiv pe [discord](https://discord.gg/furyro), unde licitația se va anunța din timp cu tot cu poze cu proprietatea respectivă).
+- Puteți participa la o licitație cu ajutorul aplicației "Licitații" de pe [telefon](/telefon.html#aplicatia-licitatii).
 
 - După ce ați început să urmăriți licitația, puteți să plasați o ofertă, să încetați să urmăriți licitația sau să opriți cursor-ul cu ajutorul funcțiilor din meniul licitației.
 
-![](https://i.imgur.com/VZJyoZQ.gif)
+![](https://i.imgur.com/VUTfE0t.gif)
 
 :::tip UTIL!
 Puteți reactiva înapoi cursorul apăsând "Click Dreapta".

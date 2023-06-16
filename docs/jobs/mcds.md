@@ -30,3 +30,14 @@ Acest job constă în prepararea comenzilor primite dar și în a menține resta
 ![](https://i.imgur.com/o6StZZQ.gif)
 
 - Plata va fi făcută după fiecare comandă finalizată / zonă curățată.
+
+| Aliment              | Preț vânzare |
+| -------------------  | :-----------:|
+| Hamburger            |    $24       |
+| Cheeseburger         |    $27       |
+| Double Cheeseburger  |    $30       |
+| Quarter Pounder      |    $28       |
+| Big Mac              |    $32       |
+| Big N' Tasty         |    $35       |
+| Fillet-O-Fish        |    $23       |
+| McChicken            |    $21       |

@@ -62,3 +62,23 @@ Este recomandată folosirea unei genți pentru a putea transporta mai multe mate
 :::details Vânzare materiale
 ![](https://i.imgur.com/E1Zp1xS.gif)
 :::
+
+| Tip material         | Preț vânzare |
+| -------------------  | :-----------:|
+| Labă de iepure       |    $5        |
+| Blană de iepure      |    $20       |
+| Carne de iepure      |    $35-45    |
+| Pene de șoim         |    $50       |
+| Gheară de șoim       |    $20       |
+| Pene de cormoran     |    $250      |
+| Carne de cormoran    |    $40-50    |
+| Blană de panteră      |    $20-30   |
+| Colți de panteră      |    $50      |
+| Colți de porc mistreț |    $60      |
+| Blană de porc mistreț |    $20-30   |
+| Carne de porc mistreț |    $40-50   |
+| Blană de căprioară    |    $10-20   |
+| Coarne de căprioară   |    $30-40   |
+| Carne de căprioară    |    $20-30   |
+
+- Acolo unde prețul variază, poate varia și greutatea materialului.

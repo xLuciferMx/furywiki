@@ -11,6 +11,48 @@ title: Poliția Fury
 
 - Poliția orașului Fury se ocupă cu menținerea ordinii și siguranței în oraș, prin aplicarea legilor și pedepsirea celor care le încalcă, dar și cu investigarea și rezolvarea cazurilor de crimă, furt, viol, etc.
 
+## Structură
+
+### Corp Conducere:
+
+- Principalele activități sunt coordonarea întregii facțiuni în strânsă legătură cu corpul de ofițeri, gestionarea problemelor grave, rezolvarea cererilor de audiență și realizarea schimbărilor administrare/organizatorice.
+
+#### Chestor General
+
+#### Chestor
+
+#### Comisar Șef
+
+#### Comisar
+
+#### Sub-Comisar
+
+### Corp Ofițeri:
+
+- Pricipalele activități sunt gestionarea și coordonarea corpului de agenți, au ca scop instruirea suficient de bună a acestora. De asemenea, se ocupă cu realizarea organizărilor de zi cu zi, dar și cu realizarea de acțiuni precum filtre etc.
+
+#### Inspector
+
+### Corp Agenți: 
+
+- Principalele activități sunt instruirea academicienilor/subagenților și totodată observarea capabilității lor în această meserie. De asemenea, sunt cei care se ocupă în mare parte de activitățile poliției de zi cu zi (amenzi, permise confiscate etc).
+
+#### Agent Șef Principal
+
+#### Agent Șef
+
+#### Agent Principal
+
+#### Agent
+
+### Stagiari
+
+- Principalele activități sunt învățarea procedurilor facținuii, sub îndrumarea unui agent tutore.
+
+#### Subagent
+
+#### Academie
+
 ## Secțiile de poliție
 
 În oraș se pot găsi 2 secții de poliție:

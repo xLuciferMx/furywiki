@@ -11,11 +11,11 @@ title: Pescar
 ## Cerințe
 
 - Nu este necesară experiență.
-- Momeală
+- Momeală (150$ / 20 bucăți).
 
 ## Cum practic acest job?
 
-Acest job constă în pescuirea peștilor atât în locația prestabilită de job cât și în larg folosind o barcă (skill 2).
+Acest job constă în prinderea peștilor și vânzarea acestora la o locație specială.
 
 - Înainte de a începe jobul propriu-zis aveți nevoie de momeală aceasta se poate lua de la o locație specială pe care o aflați de la NPC-ul jobului.
 
@@ -30,7 +30,7 @@ Acest job constă în pescuirea peștilor atât în locația prestabilită de jo
 ![](https://i.imgur.com/5VNTEAy.png)
 :::
 
-- Odată ce ați început pescuitul, mergeți pe malul lacului/în larg (depinzând de skill-ul pe care îl aveți) și începeți să prindeți pește.
+- Odată ce ați început pescuitul, mergeți pe malul lacului și începeți să prindeți pește.
 ![](https://i.imgur.com/Q0ciWkB.gif)
 
 - După ce ați început să pescuiți la un moment dat undița voastră se va mișca și veți fi nevoiți să nimeriți apasând tasta <KeyIcon keyType="space"/> în locul indicat pentru a prinde peștele. Mai jos aveți un exemplu pentru acest mini-game:
@@ -38,6 +38,10 @@ Acest job constă în pescuirea peștilor atât în locația prestabilită de jo
 
 - După ce ați prins cantitatea de pește pe care o doriți, puteți să vă duceți să vindeți peștele în aceeași locație de unde vă puteți cumpăra și momeală.
 
-:::tip
-- Anumiți pești pot fi folosiți ca momeală pentru pescuitul în larg (skill 2)
-:::
+| Pește                | Preț vânzare |
+| -------------------  | :-----------:|
+| Ghibort              |    $70       |
+| Rosioara             |    $60       |
+| Caras                |    $50       |
+| Platica              |    $45       |
+| Biban                |    $55       |

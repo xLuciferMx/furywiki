@@ -19,7 +19,7 @@ title: Telefon
 
 - Aceasta este intefața telefonului:
 
-![](https://i.imgur.com/ah45Jx8.png)
+![](https://i.imgur.com/2j3KQ2n.png)
 
 - În partea de jos a telefonului, avem 4 aplicații care se presupun a fi utilizate cel mai des:
 
@@ -103,6 +103,20 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 :::details Mașini parcate
 ![](https://i.imgur.com/ugNpZtZ.png)
 :::
+
+### Aplicația "Asigurare Medicală"
+
+- Cu ajutorul acestei aplicații putem să cumpărăm o [asigurare medicală](/general/asigurare) dacă nu avem una, sau dacă deja deținem una putem să vedem data și ora de expirare a acestia. Mai multe detalii despre cum funcționează aceasta [aici](/general/asigurare).
+
+![](https://i.imgur.com/BHvCSJm.png)
+
+![](https://i.imgur.com/OxzBlDj.png)
+
+### Aplicația "Licitații"
+
+- Cu ajutorul acestei aplicații putem să vedem toate licitațiile disponibile în oraș, fiecare având în partea stângă un logo specific cu ce anume se vinde, mai putem să vedem cât timp mai este până la expirarea licitației și o comandă rapidă pentru a deschide meniul licitației, care, totodată pune și un punct pe GPS către proprietate.
+
+![](https://i.imgur.com/ARp2M5N.gif)
 
 ### Aplicația "eJobs"
 

@@ -59,11 +59,13 @@ Acest job constă în adunarea de minereuri, prelucrarea lor la topitorie și v�
 ### Prețuri de vânzare a lingourilor/materialelor la Vangelico
 | Tip material/lingou  | Preț vânzare |
 | -------------------  | :-----------:|
-| Cărbune              |    $todo     |
-| Sulf                 |    $todo     |
-| Fier                 |    $todo     |
-| Cupru                |    $todo     |
-| Aur                  |    $todo     |
-| Smarald              |    $todo     |
-| Rubin                |    $todo     |
-| Diamant              |    $todo     |
+| Cărbune              |    -         |
+| Sulf                 |    -         |
+| Fier                 |    $5        |
+| Cupru                |    $14       |
+| Aur                  |    $108      |
+| Smarald              |    $156      |
+| Rubin                |    $168      |
+| Diamant              |    $180      |
+
+- Cele două materiale care nu au preț nu pot fi vândute, dar se foloses în alte scopuri.

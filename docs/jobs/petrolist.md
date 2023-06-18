@@ -27,7 +27,7 @@ Acest job constă în a umple și transporta cisterna cu benzină cu tirul cătr
 ![](https://i.imgur.com/ZC1aSuC.png)
 :::
 
-- Prin apăsarea tastei <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">J</span> deschideți meniul de job și selectați "Petrolist".
+- Prin apăsarea tastei <KeyIcon keyType="j"/> deschideți meniul de job și selectați "Petrolist".
 :::details Meniu job
 ![](https://i.imgur.com/uNa9esJ.png)
 :::

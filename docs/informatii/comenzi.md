@@ -59,10 +59,6 @@ title: Comenzi Utile
 
 - Comandă folosită pentru a vorbi în chat-ul facțiunii.
 
-### /d
-
-- ??
-
 ### /b - chat business
 
 - Folosit pentru a vorbi în chat-ul business-ului.

@@ -12,7 +12,7 @@ title: Licitatii
 ### Casă
 
 - Trebuie să vă aflați în interiorul casei. Accesați meniul casei și selectați opțiunea "Licitează casa", apoi alegeți prețul de pornire al licitației.
-- După ce ați creat licitația, toți jucătorii vor primi o notificare pe telefon pentru [aplicația "Licitații"](/telefon.html#aplicatia-licitatii).
+- După ce ați creat licitația, toți jucătorii vor primi o notificare pe telefon pentru [aplicația "Licitații"](/general/telefon.html#aplicatia-licitatii).
 
 ![](https://i.imgur.com/VCBmZue.gif)
 
@@ -26,7 +26,7 @@ title: Licitatii
 
 ## Cum pot sa particip la o licitație?
 
-- Puteți participa la o licitație cu ajutorul aplicației "Licitații" de pe [telefon](/telefon.html#aplicatia-licitatii).
+- Puteți participa la o licitație cu ajutorul aplicației "Licitații" de pe [telefon](/general/telefon.html#aplicatia-licitatii).
 
 - După ce ați început să urmăriți licitația, puteți să plasați o ofertă, să încetați să urmăriți licitația sau să opriți cursor-ul cu ajutorul funcțiilor din meniul licitației.
 

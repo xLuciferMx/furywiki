@@ -28,14 +28,14 @@ title: Investiții
 
 |  Ore jucate  |    Reward   |
 | :-----------:|   :-----:   |
-|     o oră    |    $todo    |
-|     2 ore    |    $todo    |
-|     3 ore    |    $todo    |
-|     5 ore    |    $todo    |
-|     6 ore    |    $todo    |
-|     8 ore    |    $todo    |
-|     9 ore    |    $todo    |
-|     10 ore   |    $todo    |
+|     o oră    |    $1000    |
+|     2 ore    |    $2200    |
+|     3 ore    |    $3600    |
+|     5 ore    |    $7500    |
+|     7 ore    |    $11900   |
+|     9 ore    |    $17100   |
+|     11 ore   |    $24200   |
+|     15 ore   |    $45000   |
 
 ::: tip Recomandare!
 - Este recomandat să vă stabiliți dinainte orele pe care le veți juca în ziua respectivă, astfel încât să nu pierdeți niciun reward.
@@ -50,16 +50,16 @@ De exemplu, dacă am făcut o investiție de 5 ore, dar am jucat doar 4 ore, nu 
 
  -> reward-urile sunt stabilite astfel:
 
-|   Ore investite |   Sumă investită   |     Reward   |
-|  :-----------:  |   :-------------:  |    :-----:   |
-|     100 ore     |       $todo        |     $todo    |
-|     200 ore     |       $todo        |     $todo    |
-|     300 ore     |       $todo        |     $todo    |
-|     500 ore     |       $todo        |     $todo    |
-|     600 ore     |       $todo        |     $todo    |
-|     800 ore     |       $todo        |     $todo    |
-|     900 ore     |       $todo        |     $todo    |
-|     1000 ore    |       $todo        |     $todo    |
+|   Ore investite |   Sumă investită   |    Reward   |  Total (suma investită + reward) |
+|  :-----------:  |   :-------------:  |   :-----:   |  :----:   |
+|     50 ore      |       $100000      |    $20000   |  $120000  |
+|     100 ore     |       $200000      |    $50000   |  $250000  |
+|     150 ore     |       $300000      |    $90000   |  $390000  |
+|     200 ore     |       $400000      |    $140000  |  $540000  |
+|     250 ore     |       $500000      |    $200000  |  $700000  |
+|     300 ore     |       $600000      |    $270000  |  $870000  |
+|     350 ore     |       $700000      |    $350000  |  $1050000 |
+|     400 ore     |       $800000      |    $440000  |  $1240000 |
 
 :::info Atenție!
 - Poți alege orice investiție indiferent de câte ore jucate actuale deții.

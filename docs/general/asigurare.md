@@ -13,6 +13,6 @@ title: "Asigurare medicală"
 
 - Principalul motiv este că, în cazul în care suntem răniți, putem apela la serviciile medicale fără a plăti o sumă de bani.
 
-- În cazul în care nu suntem asigurați, nu puteți fi ajutat de către medic.
+- În cazul în care nu suntem asigurați, veți taxat cu o sumă de bani considerabilă.
 
 ![](https://i.imgur.com/bEjJz6U.png)

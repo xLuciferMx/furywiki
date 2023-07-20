@@ -113,6 +113,18 @@ title: Comenzi Utile
 
 - Setează locația către casa cu numărul selectat
 
+### /startrecording 
+
+- Începe înregistrarea de clipuri video.
+
+### /stoprecording
+
+- Oprește înregistrarea de clipuri video.
+
+### /rockstareditor
+
+- Accesează Rockstar Editor.
+
 ### to add more
 
 ## Butoane cu funcții prestabilite

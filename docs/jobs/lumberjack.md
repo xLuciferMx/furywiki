@@ -46,4 +46,6 @@ Lângă bara de viață și armură va apărea încă o bară galbenă care repr
 :::details Transformare lemn în scânduri
 ![](https://i.imgur.com/6c9zaze.gif)
 :::
-- Scândurile pot fi vândute la ......... TO ASK/DO
+
+- Scândurile pot fi vândute la NPC ul de lângă topoganul de descărcare, iar plata va fi făcută per scândură.
+![](https://i.imgur.com/Q4Xr88c.png)

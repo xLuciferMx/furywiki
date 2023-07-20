@@ -78,7 +78,7 @@ La angajarea jucătorului în firmă o să stabiliți procentul salarial pe care
 
 ### Pagina de Setări ale business-ului
 
-- Este pagina unde puteți schimba numele business-ului în schimbul a 20 Fire Coins, să vindeți firma și să setați prețurile pentru serviciile oferite.
+- Este pagina unde puteți schimba numele business-ului în schimbul a 200 Fire Coins, să vindeți firma și să setați prețurile pentru serviciile oferite.
 
 ![](https://i.imgur.com/RiAoef3.png)
 

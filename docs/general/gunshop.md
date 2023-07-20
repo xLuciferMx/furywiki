@@ -20,25 +20,19 @@ title: "Gunshops"
 Ex: [Toporul](/jobs/lumberjack)
 :::
 
-Produse și prețuri:
+## Pistol Autoapărare (necesită Permis Port Armă)
 
-| Armă                 | Preț achiziționare |
-| -------------------  | :-----------------:|
-| Bâtă                 |    $todo           |
-| Rangă                |    $todo           |
-| Cuțit                |    $todo           |
-| Briceag              |    $todo           |
-| Topor                |    $todo           |
+- În gunshop există un pistol de tip SNS PISTOL care poate fi cumpărat fie cu Permis Port Armă (care este emis de [Poliție](factions/politie.html)), fie fără Permis. Dacă cumpărați pistolul fără Permis, la o percheziție/când sunteți prinși că îl folosiți veți fi sancționat conform Codului Penal în vigoare. Totodată, dacă aveți Permis Port Armă și sunteți prinși că faceți ilegalități cu pistolul, Permisul va fi anulat.
 
 ## VIP Melee
 
 - Aveți posibilitatea de a achiziționa un pachet individual/inclus într-un pachet VIP care vă oferă acces la un pachet în plus de arme albe pe lângă cele accesibile pentru toată lumea. 
 
-| Armă                 | Preț achiziționare |
-| -------------------  | :-----------------:|
-| Dagger               |    $todo           |
-| Tac                  |    $todo           |
-| Battleaxe            |    $todo           |
-| Crosă de golf        |    $todo           |
-| Ciocan               |    $todo           |
-| Rozetă               |    $todo           |
+| Armă                 |
+| -------------------  |
+| Dagger               |
+| Tac                  |
+| Battleaxe            |
+| Crosă de golf        |
+| Ciocan               |
+| Rozetă               |

@@ -48,14 +48,17 @@ export default defineConfig({
         items: [
           { text: "Inventar", link: '/general/inventar' },
           { text: "Telefon", link: '/general/telefon' },
-          { text: "Garaje & Parcări", link: '/general/garaje'},
+          // { text: "Garaje & Parcări", link: '/general/garaje'},
           { text: "Bancomate", link: '/general/atm'},
           { text: "Asigurare medicală", link: '/general/asigurare' },
           { text: "Școala de șoferi", link: '/general/scoala' },
+          { text: "Depozit Paleto", link: '/general/depozit' },
           { text: "Biroul de Licențe", link: '/general/licente' },
+          { text: "CNN (Anunțuri)", link: '/general/cnn' },
           { text: "Sala de forță", link: '/general/sala' },
-          { text: "Spălătorii auto", link: '/general/spalatorii' }, 
+          // { text: "Spălătorii auto", link: '/general/spalatorii' }, 
           { text: "Magazin de arme", link: '/general/gunshop' },
+          { text: "Rockstar Editor", link: '/general/rockstareditor' },
         ]
       },
 

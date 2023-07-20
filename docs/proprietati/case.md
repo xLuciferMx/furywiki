@@ -144,4 +144,4 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 
 ## Am garaj la casă?
 
-- Aveți posibilitatea de a stoca un anumit număr de vehicule în garaj. Mai multe informații despre garaje le găsiți la secțiunea ["Garaje & Parcări"](/general/garaje.html#cum-functioneaza-garajele).
+- Da, dispuneți și de un garaj la fiecare casă.

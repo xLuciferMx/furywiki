@@ -10,7 +10,7 @@ hero:
     alt: Fury
   actions:
     - theme: brand
-      text: Ce este fury ?
+      text: Afla mai multe
       link: /informatii/about
     - theme: alt
       text: 🤗 Join Discord

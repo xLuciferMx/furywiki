@@ -53,7 +53,7 @@ title: Poliția Fury
 
 #### Academie
 
-## Secțiile de poliție
+<!-- ## Secțiile de poliție
 
 În oraș se pot găsi 2 secții de poliție:
 
@@ -67,7 +67,7 @@ title: Poliția Fury
 :::details Secția La Mesa
 ![politieLaMesa1](https://i.imgur.com/ZEDQgEn.png)
 ![politieLaMesa2](https://i.imgur.com/wOFWJjR.png)
-:::
+::: -->
 
 ## Vehicule
 

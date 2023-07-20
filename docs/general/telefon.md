@@ -26,6 +26,7 @@ title: Telefon
 ### Aplicația "Telefon"
 
 - Cu ajutorul acestei aplicații putem suna la [poliție](/factions/politie) sau alt serviciu, la un număr de telefon, să-l introducem în lista de contacte, să ștergem un număr din lista de contacte, să vedem apelurile pierdute, apelurile primite și apelurile efectuate, toate acestea accesând shortcut-urile de la baza ecranului.
+- De asemenea, dacă vrem să sunăm la Smurd/Taxi/Mecanic vom vedea doar angajații disponibili de la toate firmele, având posibilitatea să alegem pe cine dorim să sunăm în funcție de preț.
 
 ![](https://i.imgur.com/nYZrFao.png)
 

@@ -82,7 +82,3 @@ La angajarea jucătorului în firmă o să stabiliți procentul salarial pe care
 - Este pagina unde puteți schimba numele business-ului în schimbul a 200 Fire Coins, să vindeți firma și să setați prețurile pentru serviciile oferite.
 
 ![](https://i.imgur.com/Aklb8wH.png)
-
-## De ce echipament dispun ca și angajat?
-
-- Ca și angajat, aveți acces la un număr nelimitat de truse de prim ajutor din loadout-ul firmei.

@@ -303,6 +303,11 @@ a locurilor foarte retrase)
 - **Zone rău famate**: Grove Street, Vespucci Beach, Vespucci Boulevard, Vinewood
 :::
 
+### 1.36 Este permisa pentru anunt CNN referitor la VIPs, doar o singura formulare "Inel Diamond/Gold/Silver".
+- P.S FireCoins achiziționate pe un ID nu se pot transfera/vinde.
+
+### 1.37 Este permisa depozitarea obiectelor  de la joburile legale in Rubble, dar este interzisa depozitarea obiectelor ilegale ( droguri, arme ) .
+
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
 ### 2.0 **Răpirea / Ostatici**

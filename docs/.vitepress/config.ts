@@ -37,9 +37,19 @@ export default defineConfig({
         items: [
           { text: "Despre noi", link: '/informatii/about' },
           { text: "Regulament General", link: '/informatii/regulament' },
+          { text: "Regulament Business", link: '/informatii/regulamentbiz' },
           { text: "Întrebări frecvente", link: '/informatii/intrebari' }, 
-          { text: "Comenzi des folosite", link: '/informatii/comenzi' }, 
+          { text: "Comenzi des folosite", link: '/informatii/comenzi' },
+          { text: "Afaceri cu Firecoins", link: '/informatii/afacerifc' }, 
           { text: "Panel", link: '/informatii/panel' },
+        ]
+      },
+
+      {
+        text: 'Istoric Update-uri',
+        items: [
+          { text: "Update-uri server", link: '/informatii/updatesv' },
+          { text: "Update-uri regulament", link: '/informatii/updatereg' },
         ]
       },
 
@@ -110,9 +120,9 @@ export default defineConfig({
         items: [
           { text: "Cum licitez o proprietate?", link: '/proprietati/auction' },
           { text: "Case", link: '/proprietati/case' },
-          { text: "Tarabă la portbagajul dubei", link: '/proprietati/taraba' },
           { text: "Magazine", link: '/proprietati/magazine' },
           { text: "Benzinarii", link: '/proprietati/benzinarii' },
+          { text: "Tarabă la portbagajul dubei", link: '/proprietati/taraba' },
         ]
       },
 

@@ -4,7 +4,54 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
-## SERVER UPDATE 2.04 - 27/07/2023
+## SERVER UPDATE v2.08 - 02/08/2023
+
+- sJobul de miner a fost mutat la 80 de ore.
+- A fost reparata problema tarnacoapelor blocate pe spate la Miner.
+- SNS Pistol nu mai este disponibil în Gun Shop.
+- Mașinile din subsolul Dealershipului au fost șterse din motive de optimizare.
+
+## SERVER UPDATE v2.07 - 01/08/2023
+
+🎉 UPDATES & FIXES🎉
+- La codul postal 587 a fost adăugat garaj de mecanici și blip pe hartă.
+- Timpul de respawn a fost mărit la 7 minute.
+- Problema cheilor de la case a fost reparată.
+- Reducerea de la VIP tuning a fost reparată.
+- Jobul de miner a fost reparat.
+- Jobul de stivuitorist a fost reparat.
+- De acum puteți utiliza și tirul SCANIA pentru petroliști și tiriști.
+- A fost reparată problema prin care bărcile și motocicletele se stricau ușor.
+- De acum puteți utiliza inventarul și dacă sunteți răniți, dar nu îl puteți utiliza dacă sunteți în comă.
+- A fost adăugat shop pe Cayo pentru veste anti-glont și adrenalină. (Se pot utiliza de către organizații și mafii).
+
+## SERVER UPDATE v2.06 - 31/07/2023
+
+UPDATES:
+- S-a actualizat chatul pentru membrii VIP.
+- Toate armele care erau blocate pentru uz doar pentru organizații și mafii au fost deblocate și pot fi utilizate acum și de către civili.
+- A fost scoasă comanda /f de la mafii și organizații.
+- A fost adăugată licența pentru tarabă, la prețul de 1750 pentru 7 zile.
+
+BUG FIXES:
+- A fost revizuit sistemul de salvare a glonțelor.
+- A fost reparată problema de la crafting când nu aveai loc în inventar.
+- Au fost reparate joburile de miner și petrolist.
+- A fost rezolvat bugul prin care puteai să faci kilometri la mașină pentru altcineva la achievements.
+
+## SERVER UPDATE v2.05 - 29/07/2023
+
+**Updates**
+- A fost adaugata verificare pentru AFK ( sistem prin care nu primiti kick daca introduceti un cod).
+- A fost scazut daily quest la pescar de la 10 pesti de 2kg la 4 pesti.
+- A fost scazut daily quest miner de la 3 minereuri pretioase la 1 minereu pretios (diamant, rubin,emeralt)
+
+**Bugs**
+- A fost fixata comanda /th cu tot cu cutit
+- A fost reparata problema de la medici cu trusa de* *prim ajutor
+- A fost  reparata functia de vinde unui jucator din inventar
+
+## SERVER UPDATE v2.04 - 27/07/2023
 
 ---------------------- BUGS ---------------------------
 
@@ -27,7 +74,7 @@ title: Update-uri Server
 - SUZUKI GSX R1000
 - HONDA GL1800 GOLDWING
 
-## SERVER UPDATE 2.03 - 26/07/2023
+## SERVER UPDATE v2.03 - 26/07/2023
 
 - S-a rezolvat problema achievementului la Haine.
 - S-a fixat JOB BOOST la Vatman.

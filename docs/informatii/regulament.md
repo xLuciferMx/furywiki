@@ -136,7 +136,8 @@ Se va primi CK atunci:
 
 ### 1.16 Roleplay Scarbos
 - Reprezintă **totalitatea roleplay-urile ce conțin o scenă sexuală**, incluzând (violul, necrofilia, pedofilismul, canibalismul). Pentru a putea face acest tip de Roleplay aveți nevoie de **aprobarea pe chat-ul OOC** a persoanei sau persoanelor ce doriți să le implicați.
-- În cazul în care cineva **începe un astfel de roleplay fără acordul dvs.**, aveți tot dreptul nu dați curs scenariului și să **chemați un admin** întrerupând astfel roleplay-ul. 
+- În cazul în care cineva **începe un astfel de roleplay fără acordul dvs.**, aveți tot dreptul nu dați curs scenariului și să **chemați un admin** întrerupând astfel roleplay-ul.
+- Este interzisă umilirea unui jucător sau forțarea acestuia să efectueze acțiuni pur și simplu în scopul amuzamentului personal [de exemplu, să-l forțezi să latre, să cânte sau să execute alte acțiuni similare].
 
 <hr style="transform: translateY(10px)"/>
 
@@ -195,9 +196,7 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - În situația în care din diferite motive ajungeți în comă, iar un medic ajunge la dvs. și vă oferă ajutor, vă puteți aminti toate informațiile acumulate până în momentul în care ați intrat în comă.
 - O persoană se consideră moartă (PK) **doar** în momentul în care respectiva persoana **a folosit funcția de respawn**.
 - Este interzis să vorbiți, să folosiți telefonul cât timp sunteți în comă, excepție de la această regulă face situația în care ați intrat în comă în urma unui accident rutier, feroviar sau în cazul în care ați căzut de la o distanță mare și niciun jucător nu se află în jurul vostru, caz în care puteți suna la medic.
-- In momentul in care esti implicat intr-un RP, tu fiind in COMA, chiar daca au trecut cele 300 de secunde nu ai dreptul sa-ti dai respawn decat dupa terminarea actiunii in cauza.
-- In cazul in care cineva are un RP fizic cu tine (carry, perchezitie, jefuire sau iti este chemat medicul sa primesti revive) Nu ai voie sa iti dai respawn.
--  In cazul unui RP cu politia care se soldeaza cu victime, daca e cineva mort si NU are catusele puse, are dreptul la respawn dupa cele 300 de secunde ,    CHIAR DACA POLITIA ESTE LANGA EL.
+- În cazul oricărui RP și dacă nu ați primit revive în decurs de **420 de secunde (7 minute)**, aveți dreptul de a folosi funcția de RESPAWN.
 
 <hr style="transform: translateY(10px)"/>
 

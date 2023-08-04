@@ -40,7 +40,7 @@ export default defineConfig({
           { text: "Regulament Business", link: '/informatii/regulamentbiz' },
           { text: "Întrebări frecvente", link: '/informatii/intrebari' }, 
           { text: "Comenzi des folosite", link: '/informatii/comenzi' },
-          { text: "Afaceri cu Firecoins", link: '/informatii/afacerifc' }, 
+          { text: "Afaceri cu Firecoins", link: '/informatii/afacerifc' },
           { text: "Panel", link: '/informatii/panel' },
         ]
       },

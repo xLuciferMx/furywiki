@@ -4,6 +4,29 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## UPDATE 03/08/2023
+**ACTIVITATI ILLEGALE**
+- [2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.](/informatii/regulament.html#_2-0-rapirea-ostatici)
+
+**7.0 Civil pentru Mafiot**
+
+- [Va este strict interzis sa interveniti ca civili (adica membri fara grad in mafie)  in roleplay-ul cu POLITIA al membrilor dintr-o mafie (cu grad), exceptie facand situatia in care roleplay-ul incepe cu toata lumea de fata (Membri mafie cu grad + Membri familia mica)](/informatii/regulament.html#_7-0-civil-pentru-mafiot)
+:::warning Situatii
+Situatia 1: Daca mafia X sta intr-o anumita zona impreuna cu familia mica si politia va observa, au voie sa intervina doar membrii din familia mica PREZENTI la inceputul roleplay-ului. Nu este permis sa fie chemati mai tarziu pe statie.
+
+Situatia 2: In cazul unei urmariri in care in masina se afla un membru cu grad si 3 membri din familia mica, acestia au voie sa ajute membrul cu grad in cazul unei posibile batai cu politia, singurii care au voie sa vina in ajutor, find membri cu grad
+
+Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1 membru cu grad 3 familie mica in ideea in care daca 1 membru cu grad cere intariri sa aveti motiv ca si civilii aflati in masinile celorlalti membri cu grad sa poata intervenii.
+:::
+
+**8.0 Regulament Jaf Banca Pacific/ Transport**
+
+- [Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+- [Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 10 (doar cu grad).](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+- [In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+- [La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+
+
 ## UPDATE 01/08/2023
 - [Modificare 1.23 În cazul oricărui RP și dacă nu ați primit revive în decurs de **420 de secunde (7 minute)**, aveți dreptul de a folosi funcția de RESPAWN.](/informatii/regulament.html#_1-23-coma)
 

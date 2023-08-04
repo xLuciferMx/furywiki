@@ -9,7 +9,7 @@ title: Miner
 
 ## Cerințe
 
-- Experiență de minim 10 ore.
+- Experiență de minim 80 ore.
 - Deținerea unei autoutilitare de tip Rubble (poate fi achiziționată de la Dealership).
 - Deținerea unui [permis de conducere](/general/scoala) valabil.
 - Deținerea unei [licențe](/general/licente) de miner pentru a putea lucra legal.

@@ -318,6 +318,7 @@ a locurilor foarte retrase)
 - 2.05   Este interzis să răpești o persoana având ca unic scop cererea de răscumpărare din partea Poliției.
 - 2.06   Atunci când negociați eliberarea unui ostatic, ambele părți au obligația de a respecta învoiala inițială.
 - 2.07   Nu este permis să cereți poliției ca toate unitățile să lase armele jos, să se pună în genunchi sau să aducă un anumit suspect ce este reținut în schimbul ostaticului.
+- 2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.
 
 <hr style="transform: translateY(10px)"/>
 
@@ -360,3 +361,24 @@ smurd este **singura** variantă de scăpare cu viață dintr-o situație extrem
 - **Este recomandat să verificați regulamentul periodic în cazul în care apar schimbări.**
 - **Necunoașterea regulamentului nu vă scutește de sancțiune.**
 :::
+
+### 7.0 Civil pentru Mafiot
+
+
+- Va este strict interzis sa interveniti ca civili (adica membri fara grad in mafie)  in roleplay-ul cu POLITIA al membrilor dintr-o mafie (cu grad), exceptie facand situatia in care roleplay-ul incepe cu toata lumea de fata (Membri mafie cu grad + Membri familia mica)
+
+::: warning SITUATII
+Situatia 1: Daca mafia X sta intr-o anumita zona impreuna cu familia mica si politia va observa, au voie sa intervina doar membrii din familia mica PREZENTI la inceputul roleplay-ului. Nu este permis sa fie chemati mai tarziu pe statie.
+
+Situatia 2: In cazul unei urmariri in care in masina se afla un membru cu grad si 3 membri din familia mica, acestia au voie sa ajute membrul cu grad in cazul unei posibile batai cu politia, singurii care au voie sa vina in ajutor, find membri cu grad
+
+Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1 membru cu grad 3 familie mica in ideea in care daca 1 membru cu grad cere intariri sa aveti motiv ca si civilii aflati in masinile celorlalti membri cu grad sa poata intervenii.
+:::
+
+### 8.0 Regulament Jaf Banca Pacific/ Transport
+
+
+- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).
+- Numarul maxim de membri care pot participa la  jaful unui Transport bancar este de 10 (doar cu grad).
+- In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
+- La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!

@@ -4,6 +4,30 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## SERVER UPDATE v.2.09 - 03/08/2023
+
+            FIXES
+---------------------------------
+- Nu mai puteți primi/oferti iteme în timpul procesului de crafting.
+- A fost fixată animația pentru livrările ilegale, astfel încât să nu mai fiți blocat în freeze pentru mai mult timp decât este necesar.
+- A fost scăzută greutatea vestei antiglonț la 12 kg.
+- A fost fixată procesarea de droguri.
+- A fost fixată încărcarea obiectelor din case.
+- A fost fixat jobul de vânător.
+
+            UPDATES
+---------------------------------
+- A fost adăugat JOB BOOST (pestele se prinde mai ușor dimineata) între orele 04:00 - 12:00. (JOB PESCAR)
+- A fost adăugat sistemul de "best workers". În fiecare zi, la ora 22:00, cei mai buni 3 jucători de la fiecare job legal vor primi un premiu în Fire Coins. Pentru a vedea clasamentul intrați în aplicația eJobs și apăsați pe iconița cu un trofeu.
+- Puteți anula crafting-ul apăsând tasta ESC.
+- S-a modificat timpul de respawn pentru planta de tutun, care acum reapare la fiecare 10 minute.
+- Fiecare jucător are un maxim de 24 de plante pe care le poate colecta. După colectarea acestor plante, fiecare jucător intră într-un cooldown de 30 de minute.
+- A fost redusă taxa la depozit de la 5$ la 2$ per kg.
+- Adrenalina și vesta antiglonț pot fi oferite între membrii organizației/mafiei.
+- Internarea la spital a fost închisă pe timp de zi, iar internarea este deschisă în intervalul 22:00-10:00.
+- S-a fixat comanda /shirt, acum nu mai aveți corp invizibil după ce o folosiți.
+- De acum ai nevoie de ITP valid pentru a putea modifica mașina.
+
 ## SERVER UPDATE v2.08 - 02/08/2023
 
 - sJobul de miner a fost mutat la 80 de ore.

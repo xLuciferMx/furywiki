@@ -4,6 +4,24 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## UPDATE 06/08/2023
+[1.39 PANĂ DE CURENT](/informatii/regulament.html#_1-39-pana-de-curent)
+- În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
+
+## UPDATE 05/08/2023
+[1.19 Rob&Kill (R&K) & Kill&Rob(K&R)](/informatii/regulament.html#_1-19-rob-kill-r-k-kill-rob-k-r)
+- Se interzice jefuirea unei persoane iar apoi omorârea ei. 
+- Excepție de la această regulă face situația în care cel care a fost deja jefuit începe să aibe un comportament nepotrivit și nu respectă indicațiile jefuitorului.
+- Se interzice omorarea si jefuirea unei persoane.
+
+(A fost adaugat Kill&Rob)
+
+## UPDATE 04/08/2023
+[1.26 CLARIFICARE - SCAM](/informatii/regulament.html#_1-26-scam)
+- Jucătorul "are obligația de a verifica dacă celălalt cu care joacă barbut" deține sau nu miza respectivă, DAR asta nu înseamnă că, dacă nu a verificat, nu e înșelătorie (SCAM).
+- Jucătorul are obligația de a juca doar pe averea pe care o detine PERSONAL. Nu exista scuze de genul: "Am masina la persoana X, Am imprumutat de bani pe X si trebuie sa ii primesc intr-o ora", etc.
+- Ambii jucători au obligația de a respecta intelegerea inițială. De ex: "Jucăm pe $100.00, primu la 5 castiga" NU exista scuze de genul: "Avea 4-1 si a zis ca a castigat, normal ca m-am retras". Înțelegerea inițială trebuie respectată pana la FINALUL JOCULUI.
+
 ## UPDATE 03/08/2023
 **ACTIVITATI ILLEGALE**
 - [2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.](/informatii/regulament.html#_2-0-rapirea-ostatici)
@@ -19,12 +37,12 @@ Situatia 2: In cazul unei urmariri in care in masina se afla un membru cu grad s
 Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1 membru cu grad 3 familie mica in ideea in care daca 1 membru cu grad cere intariri sa aveti motiv ca si civilii aflati in masinile celorlalti membri cu grad sa poata intervenii.
 :::
 
-**8.0 Regulament Jaf Banca Pacific/ Transport**
+[8.0 Regulament Jaf Banca Pacific/ Transport](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
 
-- [Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
-- [Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 10 (doar cu grad).](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
-- [In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
-- [La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).
+- Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 10 (doar cu grad).
+- In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
+- La Transportul bancar, este foc deschis din ambele parti (politie si mafie)! 
 
 
 ## UPDATE 01/08/2023

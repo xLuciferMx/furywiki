@@ -20,9 +20,9 @@ title: "Gunshops"
 Ex: [Toporul](/jobs/lumberjack)
 :::
 
-## Pistol Autoapărare (necesită Permis Port Armă)
+<!-- ## Pistol Autoapărare (necesită Permis Port Armă)
 
-- În gunshop există un pistol de tip SNS PISTOL care poate fi cumpărat fie cu Permis Port Armă (care este emis de [Poliție](/factions/politie)), fie fără Permis. Dacă cumpărați pistolul fără Permis, la o percheziție/când sunteți prinși că îl folosiți veți fi sancționat conform Codului Penal în vigoare. Totodată, dacă aveți Permis Port Armă și sunteți prinși că faceți ilegalități cu pistolul, Permisul va fi anulat.
+- În gunshop există un pistol de tip SNS PISTOL care poate fi cumpărat fie cu Permis Port Armă (care este emis de [Poliție](/factions/politie)), fie fără Permis. Dacă cumpărați pistolul fără Permis, la o percheziție/când sunteți prinși că îl folosiți veți fi sancționat conform Codului Penal în vigoare. Totodată, dacă aveți Permis Port Armă și sunteți prinși că faceți ilegalități cu pistolul, Permisul va fi anulat. -->
 
 ## VIP Melee
 

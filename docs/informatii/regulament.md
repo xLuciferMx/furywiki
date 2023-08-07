@@ -158,9 +158,10 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 
 <hr style="transform: translateY(10px)"/>
 
-### 1.19 Rob&Kill (R&K)
+### 1.19 Rob&Kill (R&K) & Kill&Rob(K&R)
 - Se interzice jefuirea unei persoane iar apoi omorârea ei. 
 - Excepție de la această regulă face situația în care cel care a fost deja jefuit începe să aibe un comportament nepotrivit și nu respectă indicațiile jefuitorului.
+- Se interzice omorarea si jefuirea unei persoane.
 
 <hr style="transform: translateY(10px)"/>
 
@@ -216,7 +217,10 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Nu aveți voie să angajați pe cineva care să presteze anumite servicii pentru voi și să îi promiteți o sumă de bani sau bunuri, iar la final să nu respectați învoiala inițială
 - Pariurile IC trebuiesc mereu onorate și respectate, drept urmare este interzis să dați SCAM-uri la barbut, etc.
 - Nu se consideră scam în cazul în care împrumutați de bună voie un jucător cu orice bun material.
-- Înainte de a juca barbut cu un jucător aveți obligația de a verifica dacă respectiva persoană deține suma de bani, **folosiți opțiunea de percheziționare**. 
+- Înainte de a juca barbut cu un jucător aveți obligația de a verifica dacă respectiva persoană deține suma de bani, **folosiți opțiunea de percheziționare**.
+- Jucătorul "are obligația de a verifica dacă celălalt cu care joacă barbut" deține sau nu miza respectivă, DAR asta nu înseamnă că, dacă nu a verificat, nu e înșelătorie (SCAM).
+- Jucătorul are obligația de a juca doar pe averea pe care o detine PERSONAL. Nu exista scuze de genul: "Am masina la persoana X, Am imprumutat de bani pe X si trebuie sa ii primesc intr-o ora", etc.
+- Ambii jucători au obligația de a respecta intelegerea inițială. De ex: "Jucăm pe $100.00, primu la 5 castiga" NU exista scuze de genul: "Avea 4-1 si a zis ca a castigat, normal ca m-am retras". Înțelegerea inițială trebuie respectată pana la FINALUL JOCULUI.
 
 <hr style="transform: translateY(10px)"/>
 
@@ -306,6 +310,14 @@ a locurilor foarte retrase)
 - P.S FireCoins achiziționate pe un ID nu se pot transfera/vinde.
 
 ### 1.37 Este permisa depozitarea obiectelor  de la joburile legale in Rubble, dar este interzisa depozitarea obiectelor ilegale ( droguri, arme ) .
+
+### 1.38 BUSINESS IC
+- În cazul businessurilor IC (tatuaje, spălătorii, frizerii, garaje mecanici, etc.) pentru care Primăria eliberează un document special, este interzisă solicitarea altor sume - în afara celor specificate în script, cu excepția cazului în care jucătorul dorește să ofere TIPS (bacșiș). Se sancționează cu 120 minute de închisoare (ajail).
+
+[A fost adaugat regulament general pentru SMURD, TAXI, MECANICI.](/informatii/regulamentbiz.html)
+
+### 1.39 PANĂ DE CURENT
+- În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
 
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 

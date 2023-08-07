@@ -4,6 +4,31 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.11 - 06/08/2023
+
+- S-a schimbat prețul canistrei.
+- Jucătorii nu mai pot demisiona singuri din business, pot fi doar demiși de proprietar.
+- Când dezechipați obiectele de la business, business-ul primește banii înapoi.
+- S-a rezolvat bug-ul de la începerea job-urilor de vânător, pescar și vatman.
+
+
+## SERVER UPDATE v2.10 - 05/08/2023
+
+UPDATES
+
+- A fost modificat prețul la toate articolele din magazin.
+- A fost adăugată comanda /announce pentru poliție și primărie.
+- A fost adăugat un achievement la petrolist atunci când vindeți combustibilul la benzinării.
+- A fost adăugat un magazin nou la codul poștal 767.
+- A fost adăugat un tuning nou la codul poștal 767.
+- A fost adăugată o benzinărie nouă la codul poștal 767.
+- A fost rezolvata problema Anticheatului de la Jobul de Vanator.
+ 
+🎉 SECOND HAND DEALERSHIP🎉 
+
+- A fost adăugat un dealer Second Hand pentru mașini, unde puteți lista mașinile dumneavoastră de vânzare. În acesta interfață grafică, puteți vizualiza stadiul de tuning al mașinii disponibile și aveți posibilitatea de a efectua un test drive. Menționăm că nu puteți lista mașina spawnată, iar procedura de listare a mașinii pentru vânzare sau locația de cumpărare se află la codul poștal 767.
+![](https://i.imgur.com/42BangZ.png)
+
 ## SERVER UPDATE v.2.09 - 03/08/2023
 
             FIXES

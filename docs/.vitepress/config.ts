@@ -106,9 +106,10 @@ export default defineConfig({
           { text: "Business-uri"
             , collapsed: true,
             items: [
-              { text: "Service Auto", link: '/economie/mecanici' },
+              { text: "Mecanici", link: '/economie/mecanici' },
               { text: "Firmă de taxi", link: '/economie/taxi' },
-              { text: "Servicii Medicale Private", link: '/economie/medici' },
+              { text: "Spălătorie Auto", link: '/economie/spalatorii' },
+              // { text: "Servicii Medicale Private", link: '/economie/medici' },
          ] },
           { text: "Achievements", link: '/economie/achievements' },
           { text: "Investiții", link: '/economie/investitii' },
@@ -131,6 +132,7 @@ export default defineConfig({
         items: [
           { text: "Primăria", link: '/factions/primarie' },
           { text: "Poliția", link: '/factions/politie' },
+          { text: "Smurd", link: '/factions/smurd' },
           { text: "ANAF", link: '/factions/anaf' },
         ]
       }

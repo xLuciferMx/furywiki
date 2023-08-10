@@ -4,6 +4,55 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.13
+
+- A fost introdusă comanda /d pentru medici.
+- Prețurile licențelor au fost majorate pentru toate cu excepția celei de vânător.
+- Cooldown-ul pentru Jaful de la Pacific a fost ajustat la 30 de minute după restart și 3 ore după jaf.
+- A fost creat un spital ilegal, accesibil doar de către organizații/mafii, la codul poștal 069.
+- Timpul de scădere a capacității inventarului a fost redus.
+- Poliția nu mai suferă scăderi ale inventarului în timpul serviciului (ON DUTY).
+- Garaje pentru elicoptere și bărci au fost adăugate lângă spitalul ilegal.
+- Au fost adăugați NPC-uri barmani la clubul Yellow Jack.
+- Prețul la canistră a fost reparat.
+- Plata pentru jobul de șofer de autobuz a fost majorată.
+- Plata pentru livrările ilegale a fost crescută.
+- Plata pentru jobul de măcelar a fost majorată.
+- Plata pentru jobul de electrician a fost majorată.
+- Plata pentru jobul de pescar a fost majorată.
+- Plata pentru jobul de stivuitorist a fost majorată.
+- Plata pentru jobul de gunoier a fost majorată.
+- Plata pentru jobul de la McDonald's a fost majorată.
+- Plata pentru jobul de petrolist a fost majorată.
+- Plata pentru jobul de pădurar a fost majorată.
+- Au fost adăugate încă 2 elicoptere SIAS la poliție.
+- A fost introdus un elicopter nou de poliție (cargo) pentru transportul deținuților de pe Cayo Perico.
+- DMG-ul de la SNS Pistol a fost scazut
+- Salariul poliției a fost majorat.
+- A fost implementat un script care limitează aruncarea din mașină dacă viteza depășește 50 km/h.
+- Tigările au fost adăugate în magazin. 
+- Orice tigara fumata iti ofera intre +3/+5HP si Full Stamina
+- Numele achievement-ului pentru fumat a fost schimbat din "Tigări de contrabandă" în "Fumat tigări".
+- A fost implementat un sistem de închidere cu cod pentru uși.
+- Spitalul de pe Cayo cat si cel ilegal de la codul postal 069 sunt deschise NON STOP.
+
+## Server Update v2.12 - 07/08/2023
+ Bugs & Fixes
+- A fost scazuta distanta de la care poti lua pe cineva in /th
+- Au fost adaugate hainele specifice pentru puscarie
+- Au fost adaugate niste checkpoint-uri de facut curat in puscarie care iti reduc 30sec din sentinta / checkpoint finalizat
+- A fost adaugata sala in puscarie
+- A fost fixat "Dezechipeaza"
+- A fost adaugata Data Expirarii ITP-ului in OBD
+- Au fost modificate preturile si punctele necesare la achievement-ul de Tutun
+- A fost modificat achievement-ul de la Pilot din "Incarca X cutii in avion" in "Incarca si livreaza X cutii in avion"
+- Au fost adaugate incuietoare pe usile de pe insula Cayo
+- A fost fixata problema disparitiei subite a cisternei de la job-ul de petrolist
+- A fost scazut recoil-ul la Military Rifle
+- Dupa ce bomba este plantata pe masina bancii, masina nu mai are cum sa explodeze
+- La jobul de Petrolist, cand imbuteliati combustibilul nu mai primiti toate butoaiele odata
+- De acum, la electrician, daca este pana de curent, plata se tripleaza
+
 ## Server Update v2.11 - 06/08/2023
 
 - S-a schimbat prețul canistrei.

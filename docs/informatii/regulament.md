@@ -391,6 +391,6 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 
 
 - Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).
-- Numarul maxim de membri care pot participa la  jaful unui Transport bancar este de 10 (doar cu grad).
+- Numarul maxim de membri care pot participa la  jaful unui Transport bancar este de 10 (Membri cu grad si membri din familia mica).
 - In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
 - La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
